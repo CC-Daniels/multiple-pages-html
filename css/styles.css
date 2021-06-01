@@ -7,15 +7,16 @@ h1 {
 }
 .moon {
     text-align: center;
+    color:#fff0f5;
 }
 
 footer  {
   text-align: center;
-  color:#fff0f5;
 }
 a {
     text-decoration: none;
     margin: 0 10px;
+    color:#fff0f5;
 }
 p {
     color: #f0fff0; 
