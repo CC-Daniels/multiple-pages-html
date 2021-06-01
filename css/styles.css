@@ -5,10 +5,12 @@ h1 {
     text-align: center;
     color: #dcdcdc;
 }
-a,
- p {
+a {
     color: #f0fff0;
     text-decoration: none;
+}
+p {
+    color: #f0fff0; 
 }
 .croissantine {
         display: block;
