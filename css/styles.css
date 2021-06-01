@@ -5,12 +5,13 @@ h1 {
     text-align: center;
     color: #dcdcdc;
 }
-
-a footer .moon {
+.moon {
     color: #f0f8ff;
+    text-align: center;
+}
+a footer  {
     text-decoration: none;
     margin: 0 10px;
-    text-align: center;
 }
 p {
     color: #f0fff0; 
